@@ -5,9 +5,9 @@ The purpose is to find any indicators that have the biggest impact in insurance 
 
 # Descriptions:
 
-1. google sheets containing all data processing (variance, correlations, hypothesis testing, etc)
+1. google sheets containing all data processing in the _tabs sheets_ (variance, correlations, hypothesis testing, etc)
 
-   ### link to google sheets: https://docs.google.com/spreadsheets/d/1XEz7sz1MBzb7CNYLT63i7Gh3OxOlDqfpbL2b8YJD7B4/edit?usp=sharing
+   ### link to google sheets: https://docs.google.com/presentation/d/1IIdv_MXlyq0nGOXZ-Y-MzxdrjWgBgrpi/edit?usp=sharing&ouid=105322865647702594859&rtpof=true&sd=true
 
 2. google slide containing
 
@@ -21,4 +21,5 @@ The purpose is to find any indicators that have the biggest impact in insurance 
 - Conclusion
   ### link to google slide: https://docs.google.com/spreadsheets/d/1XEz7sz1MBzb7CNYLT63i7Gh3OxOlDqfpbL2b8YJD7B4/edit?usp=sharing)
 
-3. youtube link: _soon_
+3. youtube:
+   ### link: https://youtu.be/cLD73Eae5V8
